@@ -11,7 +11,7 @@ import Seo from "../components/seo"
 import "../../../assets/sass/main.scss"
 
 const Cara = () => (
-  <Layout sx={{marginLeft: '20px', marginRight: '20px'}}>
+  <Layout>
     { /* @ts-ignore */ }
     <Parallax pages={5}>
       <Hero offset={0} factor={1} />
