@@ -60,7 +60,8 @@ const config: GatsbyConfig = {
         open: false,
       },
     },
+    `gatsby-plugin-theme-ui`,
   ].filter(Boolean) as Array<PluginRef>,
-}
+};
 
 export default config
