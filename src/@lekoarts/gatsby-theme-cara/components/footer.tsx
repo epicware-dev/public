@@ -1,6 +1,8 @@
-import React from 'react';
+/** @jsx jsx */
+import { jsx } from "theme-ui"
 import { config } from '../../../config';
-import '../../../assets/sass/main.scss';
+// import '../../../assets/sass/main.scss';
+
 export default function Footer() {
   return (
     <section id="footer">
