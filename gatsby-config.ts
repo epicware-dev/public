@@ -8,14 +8,14 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
-    siteImage: `/banner.jpg`,
+    siteTitle: `Epicware`,
+    siteTitleAlt: `Epicware - Software Development`,
+    siteHeadline: `Epicware - Software Development`,
+    siteUrl: `https://epicware.dev`,
+    siteDescription: `Level up your business with EPIC-tier software crafted just for you!`,
+    // siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `@epicware_dev`,
   },
   trailingSlash: `always`,
   plugins: [
