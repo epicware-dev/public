@@ -1,7 +1,8 @@
 export const config = {
-  phone: '1-234-567-8910',
+  phone: '1-772-222-7262',
   socialLinks: [{
-    icon: '',
-    url: '',
+    icon: 'fa-linkedin',
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/company/epicware-dev',
   }],
 };

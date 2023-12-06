@@ -9,12 +9,11 @@ export default function Footer() {
       <div className="inner">
         <h2 className="major">Get in touch</h2>
         <p>
-          Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-          Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-          egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in
-          tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+          Our team is eager to hear from you. We're committed to providing you with not just a response, but a thoughtful and tailored solution or answer. By filling out the form below, you're taking the first step towards a meaningful conversation. We are here to assist you every step of the way. Expect a prompt and attentive reply from one of our team members who will be dedicated to addressing your specific needs.
         </p>
-        <form method="post" action="/#">
+
+
+        <form action="https://getform.io/f/c193da41-aa30-4cf6-afbc-19e080ee796d" method="POST">
           <div className="fields">
             <div className="field">
               <label htmlFor="name">Name</label>
